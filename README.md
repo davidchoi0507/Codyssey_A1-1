@@ -2,7 +2,7 @@
 
 생성형 AI 활용을 위한 콘솔 기반 프롬프트 관리 프로그램입니다.
 
-## 📌 주요 기능
+## 주요 기능
 | 번호 | 메뉴명 | 기능 설명 |
 | :---: | :--- | :--- |
 | **1** | **프롬프트 추가** | 제목, 내용, 카테고리를 입력받아 새로운 프롬프트 등록 |
@@ -14,15 +14,25 @@
 | **7** | **즐겨찾기 목록** | 즐겨찾기된 프롬프트만 모아보기 |
 | **0** | **종료** | 프로그램 종료 |
 
-## 🚀 실행 방법
+## 실행 방법
 ```
 python main.py
 ```
 
-## 🏷️ 지원 카테고리
+## 지원 카테고리
 - 디자인
 - 영상
 - 음악
 - 텍스트 생성
 - 페르소나
 - 자동화
+
+## 실행 결과
+![alt_text](Screenshots/02_result_01.png)
+![alt_text](Screenshots/02_result_02.png)
+![alt_text](Screenshots/02_result_03.png)
+![alt_text](Screenshots/02_result_04.png)
+![alt_text](Screenshots/02_result_05.png)
+![alt_text](Screenshots/02_result_06.png)
+![alt_text](Screenshots/02_result_07.png)
+![alt_text](Screenshots/02_result_08.png)
