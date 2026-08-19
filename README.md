@@ -28,6 +28,7 @@ python main.py
 - 자동화
 
 ## 실행 결과
+### 프롬프트 추가
 ![alt_text](Screenshots/02_result_01.png)
 ![alt_text](Screenshots/02_result_02.png)
 ![alt_text](Screenshots/02_result_03.png)
