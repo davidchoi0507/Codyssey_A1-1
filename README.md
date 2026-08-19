@@ -16,7 +16,6 @@
 
 ## 🚀 실행 방법
 ```
-```bash
 python main.py
 ```
 
