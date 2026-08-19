@@ -30,10 +30,17 @@ python main.py
 ## 실행 결과
 ### 프롬프트 추가
 ![alt_text](Screenshots/02_result_01.png)
+### 프롬프트 목록
 ![alt_text](Screenshots/02_result_02.png)
+### 카테고리별 조회
 ![alt_text](Screenshots/02_result_03.png)
+### 프롬프트 검색
 ![alt_text](Screenshots/02_result_04.png)
+### 프롬프트 상세 보기
 ![alt_text](Screenshots/02_result_05.png)
+### 즐겨찾기 토글
 ![alt_text](Screenshots/02_result_06.png)
+### 즐겨찾기 목록
 ![alt_text](Screenshots/02_result_07.png)
+### 종료
 ![alt_text](Screenshots/02_result_08.png)
