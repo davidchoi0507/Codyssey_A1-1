@@ -1,0 +1,34 @@
+[
+    {
+        "id": 2,
+        "title": "시네마틱 배경음악 프롬프트",
+        "content": "웅장한 오케스트라와 전자음악이 융합된 90BPM 웅장한 묵시록풍 BGM 생성.",
+        "category": "음악",
+        "favorite": false,
+        "views": 0
+    },
+    {
+        "id": 3,
+        "title": "유튜브 숏폼 영상 콘티 구성",
+        "content": "15초 분량의 몰입감 넘치는 꿀팁 소개 영상 숏폼 스토리보드 작성해줘.",
+        "category": "영상",
+        "favorite": true,
+        "views": 0
+    },
+    {
+        "id": 4,
+        "title": "test01",
+        "category": "디자인",
+        "content": "test",
+        "favorite": false,
+        "views": 1
+    },
+    {
+        "id": 5,
+        "title": "test02",
+        "category": "디자인",
+        "content": "test",
+        "favorite": false,
+        "views": 4
+    }
+]
