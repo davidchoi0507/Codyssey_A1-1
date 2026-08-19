@@ -28,7 +28,7 @@ prompts = [
 def show_menu():
     """메뉴 출력 함수"""
     print("\n" + "="*45)
-    print("      🎨 [David's 프롬프트 관리 프로그램] 🎬")
+    print("🎨 [David's 프롬프트 관리 프로그램] 🎬")
     print("="*45)
     print("1. 프롬프트 추가")
     print("2. 목록 보기")
